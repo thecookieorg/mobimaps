@@ -49,3 +49,6 @@ end
 
 gem 'simple_form'
 gem 'devise'
+gem 'rails_admin'
+gem 'cancancan'
+gem 'rolify'
